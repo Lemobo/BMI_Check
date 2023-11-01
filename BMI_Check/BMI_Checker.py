@@ -3,7 +3,7 @@ print('BMI_Checker')
 height = float(input())
 # Enter your weight in kilograms e.g., 72
 weight = int(input())
-
+print ('test')
 height = float(height)
 weight = float(weight)
 xBMI = (weight / (height ** 2))
