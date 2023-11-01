@@ -1,2 +1,2 @@
-# PythonProjects
-Compilation of Python Projects created by me
+# BMI_Check
+BMI Checker using Python
